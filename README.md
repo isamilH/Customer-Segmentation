@@ -1,5 +1,5 @@
 # Customer-Segmentation
-The project in your notebook is focused on Customer Segmentation using the K-Means algorithm, which is a centroid-based clustering technique. The goal is to group customers based on their transaction behavior to gain insights for marketing or business strategy purposes.
+The project in this notebook is focused on Customer Segmentation using the K-Means algorithm, which is a centroid-based clustering technique. The goal is to group customers based on their transaction behavior to gain insights for marketing or business strategy purposes.
 Project Breakdown:
 * Steps Involved:
   1. Data Loading: The dataset used for customer transactions is being imported and processed.
